@@ -1,0 +1,9 @@
+{
+  "development": {
+    "username": "postgres",
+    "password": "Nikhil@2003",
+    "database": "store_rating_db",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  }
+}
